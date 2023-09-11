@@ -1,0 +1,1222 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+margin: 0;
+padding: 0;
+}
+
+.fa{
+ font-size: 0.8rem;
+}
+
+.para{
+    font-size: 0.8rem;
+    color: #bbbac3;
+}
+
+.fa-brands{
+    padding: 0.4rem;
+    
+}
+
+.col-4.icons {
+    font-size: 1rem;
+    color: #bbbac3;
+}
+
+.col-4.icons:hover{
+    color: #fff;
+}
+
+.btn{
+    font-size: 1rem;
+     padding: 1rem;
+}
+
+.btn:hover{
+    background-color: #5f727f;
+    border: none;
+}
+
+.navbar-nav{
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #e15260;
+}
+a.navbar-brand {
+   padding-top: 40px;
+}
+
+.navbar-nav li{
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 700;
+    padding: 35px 20px;
+    text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #3c3950;;
+    font-family: revert;
+}
+
+.sf-input {
+    background-color: #393d4f;
+    position: absolute;
+    top: 200px;
+    right: 178.7px;
+    width: 245px;
+    height: 80px;
+    line-height: 40px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 18px solid black;
+    padding: 10px;
+    display: none;
+    z-index: 1;
+}
+ 
+
+#fa1 {
+    color: #ffffff;
+    top: 230px;
+    position: absolute;
+    font-size: 19px;
+    margin-left: -14px;
+   
+}
+
+.light{
+    margin-bottom: 0;
+    padding-left: 0.2rem;
+    color: gray;
+    font-weight: 400;
+
+}
+
+.light1{
+    margin-bottom: 0;
+    padding-left: 0.7rem;
+    color: gray;
+    font-weight: 400;
+}
+
+.light2{
+    margin-bottom: 0;
+    padding-left: 0.9rem;
+    color: gray;
+    font-weight: 400;
+}
+
+strong {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #000000;
+}
+
+p.lorem {
+    margin-top: 4rem;
+}
+
+.col-sm-12.col-lg-6 {
+    padding-left: 21px;
+    padding-right: 21px;
+}
+
+.col-6 img {
+    width: auto;
+    height: 550px;
+    position: absolute;
+    margin-top: 1rem;
+    z-index: -1;
+}
+
+.col-sm-12.col-lg-6 h2{
+    color: #4b485b;
+}
+
+.col-sm-12.col-lg-6 h2 {
+    color: #4b485b;
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.col-sm-12.col-lg-6 h1 {
+    color: #4b485b;
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+p.lorem {
+    margin-top: 4rem;
+    color: #5f727f;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+button.btn.btn-light {
+    border-radius: 0px;
+    border: 2px solid rgb(225, 82, 96);
+    color: rgb(225, 82, 96);
+    background-color: transparent;
+    padding: 12px 18px 13px 22px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    width: 200px;
+    margin-top: 2rem;
+}
+
+button.btn.btn-light:hover{
+    background-color: #e15260;
+    color: #fff;
+}
+
+.countdown-container{
+    
+    margin-top: 510px;
+  }
+
+  .countdown-counter{
+    display: block;
+    height: auto;
+    width: 520px;
+    margin: 40px;
+    color: #ffffff;
+ }
+
+ .countdown-counter ul{
+    display: block;
+    width: 100%;
+    margin: 35px;
+    background-color: rgb(225, 82, 96);
+    color: #ffffff;
+    background-color: #ffffff;
+ }
+
+ .countdown-counter li {
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(225, 82, 96);
+    padding: 0.5rem;
+    width: 25%;
+    height: 107px;
+    margin: -1.7px;
+}
+
+ul.list-unstyled.countdown-counter{
+background-color: #ffffff;
+}
+
+ .countdown-counter li span{
+    font-weight: 800;
+ }
+
+ p.days {
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+.container.p-0{
+      height: 640.519px; 
+       transform: translate3d(0px, -237.807px, 0px);
+       margin-top: 320px;
+}
+
+
+#banner{
+	background: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/4-1.jpg) no-repeat 0 0;
+	background-size : cover;
+    background-position: center center;
+    height: 922.519px;
+    width: 100%;
+}
+
+
+h3.SUNDAY {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 70px;
+    padding-top: 300px;
+}
+
+h1.group {
+
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 69px;
+}
+
+.container.centered {
+    text-align: center;
+    color: #ffffff;
+    top: 40%;
+    left: 20%;
+  }
+
+  p.date {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+
+button.btn.btn-light.btn1 {
+    background-color: transparent;
+    color: #ffffff;
+    border: 2px solid;
+    width: 170px;
+    height: 53px;
+    font-weight: 700;
+}
+
+button.btn.btn-light.btn1:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.counter{
+    background-color: rgb(255, 205, 84);
+    padding-top: 100px;
+    padding-bottom: 80px;
+    width: 100%;
+    left: -89.5px;
+}
+
+.countdown-count li {
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(255, 205, 84);
+    padding: 0.5rem;
+    width: 25%;
+    height: 79px;
+    margin: -1.7px;
+}
+
+ul.list-unstyled.countdown-count {
+    background-color: rgba(157, 149, 149, 0.528);
+}
+
+
+h2.next {
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 1px;
+}
+
+button.btn.btn-light.btn2 {
+    padding: 10px;
+    margin-top: 18px;
+    margin-left: 50px;
+    border: 2px solid black;
+    color: black;
+}
+
+button.btn.btn-light.btn2:hover{
+    background-color: #000;
+    color: rgb(255, 205, 84);
+}
+
+.text.text-center {
+    PADDING: 113PX;
+}
+.text.text-center h1{
+    font-weight: 700;
+    font-size: 3rem;
+    color: #4b485b;
+}
+
+.ipsum{
+    color: #5f727f;
+    display: block;
+    max-width: 630px;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+img.\31 0-1 {
+        width: auto;
+        height: 530px;
+}
+
+.col1{
+    padding-right: 100px !important;
+    padding-left: 75px !important;
+    background-color: #f1f2f4 !important;
+    padding: 35px;
+}
+
+.col2{
+    padding-right: 100px !important;
+    padding-left: 50px !important;
+    background-color: #f1f2f4 !important;
+}
+
+.col-lg-4.col-md-6.col-sm-12.col3 {
+    padding-left: 0px;
+}
+
+
+h1.heading1 {
+    color: #e15260;
+    line-height: 90px;
+    font-size: 80px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+h1.headings1 {
+    color: #ff9a41;
+    line-height: 90px;
+    font-size: 80px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+h2.heading2 {
+    color: #4b485b;
+    line-height: 38px;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 1em 0;
+    letter-spacing: 0.09em;
+}
+
+h2.headings2 {
+    color: #4b485b;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 1em 0;
+    letter-spacing: 0.09em;
+}
+
+p.para3 {
+    color: #5f727f;
+    margin-bottom: 0;
+    line-height: 25px;
+    font-size: 16px;
+    font-weight: normal;
+    margin-right: -8px;
+}
+
+button.btn.btn-light.btn3 {
+    border-radius: 0px;
+    border-color: rgb(225, 82, 96);
+    color: rgb(225, 82, 96);
+    background-color: transparent;
+    max-width: 145px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn3:hover{
+    background-color: rgb(225, 82, 96);
+    color: #fff;
+}
+
+button.btn.btn-light.btn4 {
+    border-radius: 0px;
+    border-color: rgb(255, 154, 65);
+    color: rgb(255, 154, 65);
+    background-color: transparent;
+    max-width: 145px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn4:hover{
+    background-color: rgb(255, 154, 65);
+    color: #fff;
+}
+
+h1.headingss1 {
+    color: #ffc332;
+    line-height: 90px;
+    font-size: 80px;
+    font-weight: 700;
+    font-family: inherit;
+}
+
+button.btn.btn-light.btn5 {
+    border-radius: 0px;
+    border-color: rgb(255, 195, 50);
+    color: rgb(255, 195, 50);
+    background-color: transparent;
+    max-width: 145px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn5:hover{
+    background-color: rgb(255, 154, 65);
+    color: #fff;
+}
+
+
+img.\31 0-2 {
+    width: auto;
+    height: 397px;
+    margin-left: -15px;
+}
+
+p.para4 {
+    color: #5f727f;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    margin-right: -8px;
+}
+
+#banner2{
+	background: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/12-1.jpg) no-repeat 0 0;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    width: 100%;
+    height: 440px;
+}
+
+.container.centered1 {
+    text-align: center;
+    color: #ffffff;
+  }
+
+  h1.group1 {
+
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 69px;
+    padding-top: 100px;
+}
+
+p.date1 {
+    font-size: 15px;
+    line-height: 25px;
+    padding-left: 246px;
+    padding-right: 234px;
+}
+
+.cards {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 1349px;
+    height: 440px;
+    background-color: #f1f2f4;
+}
+
+.col-sm-12.col-lg-4.col-md-12.card {
+    background-color: white;
+    padding: 96px 50px 10px 50px;
+    margin: -100px -1px;
+    height: 440px;
+}
+
+.img1{
+    border-radius: 50%;
+}
+
+h5.card1-title {
+    color: #e15260;
+    margin-bottom: 0;
+    margin-top: 34px;
+    line-height: 30px;
+    font-size: 24px;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+h5.card2-title {
+    color: #ff9a41;
+    margin-bottom: 0;
+    margin-top: 34px;
+    line-height: 30px;
+    font-size: 24px;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+p.pp {
+    color: #99a9b5;
+    line-height: 23px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+p.card1-text {
+    text-align: center;
+    display: block;
+    max-width: 290px;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #5f727f;
+    line-height: 20px;
+    font-weight: normal;
+}
+
+
+ .img2 {
+    width: auto;
+    height: 480px;
+    position: absolute;
+    margin-top: 5rem;
+    z-index: -1;
+    margin-left: -40px;
+}
+
+.cols {
+    padding-left: 40px;
+    margin-top: 5rem;
+}
+
+.cols h2.give{
+    color: #ff9a41;
+    font-weight: 600;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cols h1.we{
+    font-size: 55px;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+p.lorem1 {
+    color: #5f727f;
+    line-height: 25px;
+    font-size: 13.5px;
+    font-weight: 400;
+    margin-top: 35px;
+    max-width: 508px;
+}
+
+button.btn.btn-light.btn6 {
+    border-radius: 0px;
+    border-color: rgb(255, 154, 65);
+    color: rgb(255, 154, 65);
+}
+
+button.btn.btn-light.btn6:hover{
+    background-color: rgb(255, 154, 65);
+    color: #fff;
+}
+
+
+#banner3{
+    background-image: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/5-1.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    width: 100%;
+    height: 550px;
+}
+
+h1.up {
+    color: #4b485b;
+    MARGIN-TOP: 130PX;
+    FONT-WEIGHT: 700;
+    FONT-SIZE: 50PX;
+    LETTER-SPACING: 7PX;
+}
+
+p.UPP {
+    color: #5f727f;
+    MAX-WIDTH: 645PX;
+    margin-left: 240px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+h1.group2 {
+    max-width: 308px;
+    font-weight: 700;
+    font-size: 43px;
+    font-family: inherit;
+    line-height: 63px;
+    padding-top: 100px;
+}
+
+p.date2 {
+    max-width: 374px;
+    margin-top: 40px;
+}
+
+button.btn.btn-light.btn7 {
+    border-radius: 0px;
+    border-color: #ffc332;
+    color: #ffc332;
+    background-color: transparent;
+    max-width: 145px;
+    padding: 1px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn7:hover{
+    background-color:#ffc332;
+    color: #fff;
+}
+
+button.btn.btn-light.btn8 {
+    border-radius: 0px;
+    border-color: rgb(249, 151, 64);
+    color: rgb(249, 151, 64);
+    background-color: transparent;
+    max-width: 100px;
+    padding: 1px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn8:hover{
+    background-color: rgb(249, 151, 64);
+    color: #fff;
+}
+
+h1.AUG{
+    PADDING: 30PX;
+    FONT-SIZE: 50PX;
+    FONT-WEIGHT: 700;
+}
+
+h2.August {
+    font-size: 36px;
+    margin-left: 28px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.container-fluid.CO {
+    padding: 83px;
+}
+
+p.sit {
+    color: #5f727f;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+ img.slide-img {
+    border-radius: 50%;
+}
+
+h6.test {
+    color: #ffc332;
+    padding-top: 30px;
+}
+
+h1.coma{
+        color: #ffc332;
+       font-weight: 800;
+    font-size: 100px;
+    font-family: 'FontAwesome'; 
+    }
+
+    .container-fluid.co-img {
+        background-image: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/6-1.jpg);
+        background-size : cover;
+        background-position: center center;
+        height: 550px;
+        width: auto;
+    }
+
+    .col-sm-12.col-lg-12.text-center{
+        padding-top: 130px;
+    }
+    
+
+p.test1 {
+    color: #ffffff;
+    font-size: 21px;
+    font-weight: 300;
+    max-width: 1050px;
+    text-align: center;
+    margin-left: 160px;
+}
+
+
+span.carousel-control-prev-icon {
+    height: 50px;
+    width: 33px;
+    color: white;
+}
+
+span.carousel-control-next-icon {
+    height: 50px;
+    width: 33px;
+    color: white;
+}
+
+
+ .container-fluid.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    padding: 30px 50px 50px 50px
+}
+ img.bg {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+
+}
+
+img.bg:hover{
+    background-color: ;
+}
+ 
+ img.bg2 {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
+
+
+img.bg1 {
+    width: 398px;
+    height: auto;
+    padding-top: 16px;
+    margin-left: -14px;
+}
+
+
+
+ Override bootstrap column paddings
+.tz-gallery .row > div {
+    padding: 1px;
+}
+
+button.btn.btn-light.btn9 {
+    margin-left: 443px;
+    margin-top: -80px;
+    border: 3px solid;
+}
+
+button.btn.btn-light.btn9:hover{
+    background-color: #e15260;
+    color: #fff; 
+}
+
+hr {
+    width: 445px;
+    background-color: #e15260;
+    height: 3px;
+}
+
+.gallary-btn{
+    margin-top: 100px;
+}
+
+
+.hr.text-right {
+    margin-top: -73px;
+    margin-left: 642px;
+    color: #e15260;
+}
+
+#banner1{
+background-image: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/slice-5-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 792px;
+    transform: translate3d(0px, -127.313px, 0px);
+    margin-top: 200px;
+}
+
+i.fa-regular.fa-circle-play {
+    font-size: 100px;
+}
+
+.inner-column{
+    background-image: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/slice-6-1.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 470px;
+}
+
+.col-lg-4.col-md-4.col-sm-12.L {
+    color: white;
+    background-color: #e15260;
+}
+
+
+.text-left {
+    margin-left: 330px;
+    margin-top: 50px;
+}
+
+.col-lg-4.col-md-4.col-sm-12.L1 {
+    background-color: #f99740;
+    color: #ffffff;
+}
+
+
+.col-lg-4.col-md-4.col-sm-12.L2 {
+    background-color: #ffcd54;
+}
+
+.texts {
+    padding: 55px;
+}
+
+h1.location {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+h1.location1 {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+p.Church {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+p.Church1 {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+img.imgs1 {
+    width: 100%;
+}
+
+h1.OUR {
+    padding: 100px;
+    text-align: center;
+    font-size: 50px;
+    color: #4b485b;
+    line-height: 69px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.cardss3 {
+    display: flex;
+    text-align: center;
+    width: 100%;
+    background-color: #f1f2f4;
+    margin-top: -8px;
+    height: 700px;
+    padding-left: 40px;
+    padding-right: 40px;
+} 
+
+button.btn.btn-light.btn10 {
+    border-radius: 0px;
+    border-color: rgb(249, 151, 64);
+    color: rgb(249, 151, 64);
+    background-color: transparent;
+    max-width: 140px;
+    padding: 1px;
+    margin-top: 8px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+button.btn.btn-light.btn10:hover{
+    color:#fff;
+    background-color: rgb(249, 151, 64);
+}
+
+i.fa-solid.fa-square-share-nodes {
+    font-size: 30px;
+    margin-top: 8px;
+    color: #b1b4c3
+}
+
+i.fa-solid.fa-square-share-nodes:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+.share {
+    display: flex;
+}
+
+p.card-text {
+    text-align: left;
+    font-weight: normal;
+    color: #5f727f;
+    line-height: 25px;
+    font-size: 16px;
+    padding-top: 25px;
+}
+
+h5.title {
+    font-weight: 100;
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: inherit;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+
+bold {
+    color: #000;
+    font-weight: 700;
+    margin-left: -150px;
+    text-align: left;
+    font-size: 27px;
+}
+
+h5.card-title {
+    font-weight: 100;
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: inherit;
+    letter-spacing: 2px;
+    margin-top: 25px;
+    margin-left: -90px;
+}
+
+
+.newsletter {
+    padding: 80px 0;
+    background-image: url(https://codex-themes.com/thegem/thegem-church-onepage/wp-content/uploads/2017/04/8-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+
+.newsletter .content {
+    color: #ffcd54;
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2;
+
+ }
+
+ .content-tuned {
+    font-size: 16px;
+    color: #fff;
+    margin-top: 50px;
+    font-weight: 400;
+}
+
+.input-group {
+    margin-top: 50px;
+}
+
+ h2.signup {
+    color: #ffcd54;
+    font-size: 49px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+
+.form-control {
+    width: 466px;
+    height: 50px;
+    margin-right: 36px;
+    background-color: rgba(255, 248, 241, 0.21);
+    color: #fff;
+    border-color: transparent;
+}
+
+
+button.btn.btn-light.btn11 {
+    border-radius: 0px;
+    border: 3px solid #ffcd54;
+    color: #ffcd54;
+    background-color: transparent;
+    max-width: 150px;
+    padding: 11px;
+    margin-top: 2px;
+    font-size: 16px;
+}
+
+button.btn.btn-light.btn11:hover {
+
+background: #ffcd54;
+color: #fff
+
+}
+
+.JOIN{
+    background-color: rgb(249, 151, 64);
+    padding-top: 114px;
+    padding-bottom: 58px;
+    padding-left: 200px;
+
+}
+
+button.btn.btn-light.btn12 {
+    border-radius: 0px;
+    border: 3px solid #fff;
+    color: #fff;
+    background-color: transparent;
+    width: 254px;
+    padding: 11px;
+    margin-top: 2px;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+button.btn.btn-light.btn12:hover{
+    color:rgb(249, 151, 64);
+    background-color: #fff;
+}
+
+h5.sense {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    max-width: 273px;
+    margin-left: 40px;
+}
+
+i.fa-solid.fa-user {
+    margin-left: -120px;
+    padding-top: 6px;
+    font-size: 50px;
+    background-color: sandybrown;
+    width: 70px;
+    border: 1px solid lightsalmon;
+    height: 70px;
+    text-align: center;
+}
+
+h1.join{
+    margin-top: -80px;
+    color: #fff;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+ul.list.list-unstyled {
+    display: flex;
+    margin-left: 80px;
+}
+
+ul.list.list-unstyled li{
+        padding: 16px;
+        font-size: 14px;
+        color: #99a9b5;
+}
+
+ul.list.list-unstyled li:hover{
+    color: #0bdeed;
+}
+
+p.copy {
+        padding: 16px;
+        color: #99a9b5;
+        font-size: 14px;
+}
+
+.col-lg-2.col-md-2.col-sm-12.icons1 {
+    font-size: 1rem;
+    color: #99a9b5;
+    padding: 13px;
+}
+
+.col-lg-2.col-md-2.col-sm-12.icons1:hover{
+    color: #ffc332;
+}
+
+.w-100 {
+	height: 100vh;
+}
+.carousel-item {
+	height: 100vh;
+	min-height: 300px;
+}
+.carousel-caption {
+	bottom: 150px;
+	z-index: 2;
+}
+.carousel-caption h5 {
+	font-size: 45px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 25px;
+}
+.carousel-caption p {
+	width: 60%;
+	margin: auto;
+	font-size: 18px;
+	line-height: 1.8;
+}
+.carousel-caption a {
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px 20px;
+	display: inline-block;
+	color: #fff;
+	margin-top: 15px;
+	border-radius: 5px;
+}
+.carousel-inner:before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+button.btn.btn-light.btn13.animated.fadeInUp{
+border: 1px solid #fff;
+color: #fff;
+}
+ 
+
+img.bg {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+img.bg:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+img.bg2 {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+img.bg2:hover {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+img.bg1 {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.bg1:hover {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}

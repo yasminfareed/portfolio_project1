@@ -1,0 +1,190 @@
+
+@media (min-width: 768px) and (max-width: 979px){
+  .container-fluid.First.text-light.bg-dark.py-2.px-5{
+      display: block;
+      text-align: center;
+  }
+} 
+@media (min-width: 50px) and (max-width: 658px){ 
+p.date1{
+text-align: center;
+padding-left: 0px;
+padding-right: 0px;
+}
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .cards{
+  display: -webkit-inline-box;
+  margin-top: 35px;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 1300px;
+  }
+  }
+
+  @media (min-width: 760px) and (max-width: 1280px){ 
+    .cards{
+    display: -webkit-inline-box;
+    margin-top: 35px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 1300px;
+    }
+    }
+
+  @media (min-width: 50px) and (max-width: 658px){ 
+      .cols{
+      display: -webkit-inline-box;
+      margin-top: 600px;
+      padding-left: 0px;
+      padding-right: 0px;
+
+      }
+      }
+
+      @media (min-width: 760px) and (max-width: 1280px){ 
+        .cols{
+        display: -webkit-inline-box;
+        margin-top: 600px;
+        padding-left: 0px;
+        padding-right: 0px;
+  
+        }
+        }
+
+      @media (min-width: 50px) and (max-width: 658px){ 
+          .inner-column{
+              width: 370px;
+              margin-left: -73px;
+              margin-top: 50px;
+          }
+  }
+
+  @media (min-width: 50px) and (max-width: 658px){ 
+      .container-fluid.co-img{
+          height: 700px;
+      }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .card.crd1{
+      max-width: 365px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .card.crd2{
+  margin-top: 5px;
+  margin-left: 55px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .card.crd3{
+  margin-top: 5px;
+  margin-left: 55px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .card.crd4{
+  margin-top: 5px;
+  margin-left: 55px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .card.crd5{
+  margin-top: 5px;
+  margin-left: 55px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  h5.title{
+  margin-left: 144px;
+  text-align: left;
+  font-size: 20px;
+  }
+}
+
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .cardss3{
+      padding-left: 10px;
+      padding-right: 0px;
+      height: 1900px;
+  }
+}
+
+@media (min-width: 760px) and (max-width: 1280px){ 
+  .cardss3{
+      padding-left: 120px;
+      padding-right: 0px;
+      height: 1300px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  button.btn.btn-light.btn12{
+     margin-left: -65px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  img.bg1{
+  width: 289px;
+  margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+   p.test1{
+     margin-left: 10px;
+  }
+}
+
+@media (min-width: 50px) and (max-width: 658px){ 
+  .container-fluid.First.text-light.bg-dark.py-2.px-5{
+      display: none;
+      text-align: center;
+  }
+}
+
+@media (max-width: 990px){
+  .site-title{
+      padding-top: 40px;
+      padding-bottom: 10px;
+      display: inline-block;
+      text-align: center;
+  }
+}  
+
+@media only screen and (max-width: 767px) {
+	.carousel-caption {
+		bottom: 165px
+	}
+	.carousel-caption h5 {
+		font-size: 16px
+	}
+	.carousel-caption a {
+		padding: 10px 15px;
+		font-size: 14px
+	}
+}
+
+@media (min-width: 760px) and (max-width: 1280px){ 
+  img.\31 0-1{
+    width: 100%;
+  }
+}
+
+@media (min-width: 760px) and (max-width: 1280px){ 
+  img.\31 0-2{
+    width: 100%;
+  }
+}
+
+
+ 
